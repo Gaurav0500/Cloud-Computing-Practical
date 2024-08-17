@@ -1,1 +1,1 @@
-# CC-Practical-1
+# Cloud Computing Practical
